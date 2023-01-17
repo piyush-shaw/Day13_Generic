@@ -20,8 +20,6 @@ namespace FindMaximumNumber
         {
 
         }
-
-
         public T MaxValue(params T[] values)
         {
             var sorted_values = Sort(values);

@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{54D237E2-A5B5-47C4-8D18-84272ABF0509}|Default">
   <MonoDevelop.Ide.ItemProperties.GenericsDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsDemo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindMaximumNumber/GenericMaximum.cs">
     <Files>
       <File FileName="GenericsDemo/Program.cs" Line="1" Column="1" />
-      <File FileName="GenericsDemo/PrintArray.cs" Line="1" Column="1" />
+      <File FileName="GenericsDemo/PrintArray.cs" />
+      <File FileName="FindMaximumNumber/Program.cs" Line="1" Column="1" />
+      <File FileName="FindMaximumNumber/MaximumNumberCheck.cs" Line="1" Column="1" />
+      <File FileName="FindMaximumNumber/GenericMaximum.cs" Line="1" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GenericsDemo" expanded="True">
-            <Node name="GenericsDemo" expanded="True" />
+            <Node name="FindMaximumNumber" expanded="True" />
           </Node>
         </State>
       </Pad>
