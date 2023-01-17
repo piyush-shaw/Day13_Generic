@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/bin/Debug/net6.0/GenericsDemo
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/bin/Debug/net6.0/GenericsDemo.deps.json
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/bin/Debug/net6.0/GenericsDemo.runtimeconfig.json
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/bin/Debug/net6.0/GenericsDemo.dll
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/bin/Debug/net6.0/GenericsDemo.pdb
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.AssemblyInfo.cs
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.dll
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/refint/GenericsDemo.dll
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.pdb
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/GenericsDemo.genruntimeconfig.cache
+/Users/piyushshaw/Projects/GenericsDemo/GenericsDemo/obj/Debug/net6.0/ref/GenericsDemo.dll

@@ -1,0 +1,5 @@
+/Users/piyushshaw/Projects/GenericsDemo/FindMaximumNumber/obj/Debug/net6.0/FindMaximumNumber.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/GenericsDemo/FindMaximumNumber/obj/Debug/net6.0/FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/GenericsDemo/FindMaximumNumber/obj/Debug/net6.0/FindMaximumNumber.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/GenericsDemo/FindMaximumNumber/obj/Debug/net6.0/FindMaximumNumber.AssemblyInfo.cs
+/Users/piyushshaw/Projects/GenericsDemo/FindMaximumNumber/obj/Debug/net6.0/FindMaximumNumber.csproj.CoreCompileInputs.cache
